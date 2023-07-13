@@ -8,8 +8,6 @@ public class MergeArray {
         int m=3, n=3;
         array.merge(nums1,m, nums2, n);
         System.out.println("");
-        System.out.println("");
-
         for(int i : nums1) {
             System.out.print(i);
             System.out.print("\t");
